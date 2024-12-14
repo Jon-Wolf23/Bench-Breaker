@@ -1,2 +1,0 @@
-# ignore all files in venv so I can run code straight from repo folder
-*.venv/
